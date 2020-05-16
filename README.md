@@ -1,0 +1,1 @@
+Etch-a-sketch project produced for the purpose of furthering my skills.
